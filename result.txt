@@ -1,0 +1,6 @@
+Samsung : 	Available at target price!
+			Current price: 10999.0
+Hair Straightener : 	Available at target price!
+			Current price: 1208.0
+Body Lotion : 	Available at target price!
+			Current price: 399.0
